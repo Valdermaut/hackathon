@@ -1,6 +1,6 @@
 # cB Labs HACKATHON
  A web application in PHP which will be an internship portal  but on a much smaller scale.
- PHP for back-end and HTML and CSS / Boostrap for UI 
+ PHP for back-end and HTML and CSS / Bootstrap for UI 
 
 The application  has 2 kinds of users, student and employer.
 
